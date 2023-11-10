@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../1/images/pexels-stanislav-kondratiev-3014826.jpg');
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/pexels-stanislav-kondratiev-3014826.jpg');
     color: white;
     background-size:cover ;
     background-position: center;
